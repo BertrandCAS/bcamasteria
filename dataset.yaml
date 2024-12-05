@@ -1,0 +1,6 @@
+
+train: /content/drive/My Drive/TFM DATASET YOLO/train
+val: /content/drive/My Drive/TFM DATASET YOLO/valid
+
+nc: 5  # Nombre de classes
+names: ['Casco', 'Chaleco', 'No-Casco', 'No-Chaleco', 'Persona']  # Liste des classes
